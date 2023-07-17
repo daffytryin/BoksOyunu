@@ -69,7 +69,7 @@ public class Ring {
 
         return false;
 
-        //*//
+        //BoksOyunu
     }
 
 
